@@ -31,6 +31,15 @@ Author URI : http://www.markups.io/
 	color: #c762cb;
 }
 
+.mu-apple-btn:hover,
+.mu-google-btn:hover,
+.mu-windows-btn:hover,
+.mu-apple-btn:focus,
+.mu-google-btn:focus,
+.mu-windows-btn:focus {
+	color:  	#000000;
+}
+
 .mu-social-media a:hover,
 .mu-social-media a:focus,
 .mu-contact-right-single .mu-icon {
@@ -49,20 +58,20 @@ Author URI : http://www.markups.io/
 
 .mu-header-overlay,
 .mu-menu-btn,
-.mu-title-dot,
-.mu-title-dot::before,
-.mu-title-dot::after,
+
 .mu-feature-btn,
 .mu-video-overlay {
-	background-color: #c762cb;
+	background-color: #000000;
 }
 .mu-feature-content-right .media:hover {
 	border-bottom: 1px solid #c762cb;
 }
 
 .mu-apps-screenshot-slider .slick-next,
-.mu-apps-screenshot-slider .slick-prev {
-	border: 2px solid #c762cb;
+.mu-apps-screenshot-slider .slick-prev, 
+.mu-title-dot,
+.mu-title-dot::before,
+.mu-title-dot::after {	
 	color: #c762cb;
 }
 

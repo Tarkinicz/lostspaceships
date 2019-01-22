@@ -1062,10 +1062,11 @@ button:focus {
 
 
 #mu-footer {
-	background-color: #31a2f2;
+	background-color: #f9f9f9;
 	display: inline;
 	float: left;
 	width: 100%;
+	font-size: 14px;
 }
 
 .mu-footer-area{

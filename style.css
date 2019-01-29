@@ -291,7 +291,7 @@ button:focus {
 
 .mu-header-featured-content {
 	display: inline;
-	float: right;
+	float: left;
 	margin-top: 0px;
 	text-align: justify;
 	width: 60%;

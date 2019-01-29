@@ -244,6 +244,7 @@ button:focus {
 	display: inline-block;
 	font-weight: 700;
 	margin-top: 35px;
+	margin-right: 60px;
 }
 
 .mu-logo:hover,
@@ -283,15 +284,15 @@ button:focus {
 
 .mu-header-featured-img {
 	display: inline;
-	float: left;
+	float: right;
 	width: 40%;
 }
 
 .mu-header-featured-content {
 	display: inline;
 	float: right;
-	margin-top: 200px;
-	text-align: center;
+	margin-top: 0px;
+	text-align: right;
 	width: 60%;
 }
 

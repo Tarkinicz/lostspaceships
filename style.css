@@ -366,7 +366,9 @@ button:focus {
 	line-height: 24px;
 }
 
-
+.mu-description-logo {
+    margin: 0 83px 10px;
+}
 
 /*--------------------*/
 /* MENU */

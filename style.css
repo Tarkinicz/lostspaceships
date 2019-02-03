@@ -1192,6 +1192,7 @@ button:focus {
 
 	.mu-header-featured-content h1 {
 		font-size: 35px;
+		text-align: center;
 	}
 
 	.mu-app-download-area {

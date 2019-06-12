@@ -4,7 +4,11 @@
 	color: #FFFFFF;
 	background: #0F1022;
 }
-
+@media screen and (min-width: 36em){
+    body{
+        text-align: left;
+    }
+}
 h1, h2
 {
 

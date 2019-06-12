@@ -3,6 +3,7 @@
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #FFFFFF;
 	background: #0F1022;
+	text-align: center;
 }
 @media screen and (min-width: 36em){
     body{

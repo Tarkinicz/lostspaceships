@@ -1,0 +1,152 @@
+﻿body
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #FFFFFF;
+	background: #0F1022;
+}
+
+h1, h2
+{
+
+	font-weight: 900;
+	font-style: normal;
+	font-size: 48px;
+
+}
+
+
+h2
+{
+	margin-bottom: 80px;
+
+}
+p
+{
+	font-weight: 600;
+	font-style: normal;
+	font-size: 20px;
+}
+
+#header
+{
+	width: 100%;
+	background-image: url("assets/images/stars.png");
+	background-position: center bottom;
+	background-repeat: repeat-x;
+
+}
+
+
+
+.header-text
+{
+
+
+	line-height: 20px;
+	margin-bottom: 25px;
+}
+
+.header-img
+{
+
+	height: 480px;
+}
+
+.header-left
+{
+	margin-bottom: 62px;
+}
+
+#video
+{
+	background: #080919;
+
+}
+
+.content-area
+{
+	padding: 100px 0;
+	text-align: center;
+}
+
+.video-itself
+{
+	border: 3px solid #fff;
+	border-radius: 10px;
+}
+
+#links
+{
+	background: #0F1022;
+
+}
+
+i
+{
+	margin-right: 10px;
+}
+
+a
+{
+	text-decoration: none !important;
+}
+
+
+.link-btn
+{
+	color: #fff;
+	display: inline-block;
+	font-weight: 900;
+	font-style: normal;
+	font-size: 20px;
+	border: 3px solid #fff;
+	border-radius: 15px;
+	padding: 5px 10px;
+	margin: 0 15px;
+	margin-bottom: 15px;
+	transition: 0.3s;
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	-o-transition: 0.3s;
+
+}
+
+.link-btn:hover
+{
+	color: #0F1022;
+	background-color: #fff;
+
+}
+
+#screens
+{
+	background: #080919;
+
+}
+
+.screen-slider
+{
+	max-width: 90%;
+  max-height: 90%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: transform 0.4s;
+}
+
+.screen-slider:hover
+{
+	transform: scale(1.05);
+}
+
+#foot
+{
+	background: #0F1022;
+}
+
+.footer-area
+{
+	text-align: center;
+	font-size: 12px;
+	padding: 20px 0;
+}
